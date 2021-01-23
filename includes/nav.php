@@ -11,7 +11,7 @@
   <div id="topbar-responsive" class="topbar-responsive-links">
     <div class="top-bar-right">
       <ul class="menu simple vertical medium-horizontal">
-        <li><a style="color: aliceblue;" href="<?php echo $SESSION->Generate_Link("features", ""); ?>">Features</a></li>
+        <li><a style="color: aliceblue;" href="<?php echo $SESSION->Generate_Link("features", ""); ?>">Features**</a></li>
         <li><a style="color: aliceblue;" href="/index.php#benefits">Benefits</a></li>
         <li><a style="color: aliceblue;" href="/index.php#services">Services</a></li>
         <li><a style="color: aliceblue;" href="#">Support</a></li>
